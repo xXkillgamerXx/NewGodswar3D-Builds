@@ -1,12 +1,33 @@
 ﻿# New Godswars — Builds
 
-Official game builds and releases for New Godswars (Windows client updates).
+Repositorio de descargas del cliente Windows.
 
-- Each version is published as a GitHub Release
-- Announcements go to Discord (`#descargas`)
-- Game source code lives in a separate private repository
+- Cada versión se publica aquí (y preferiblemente como GitHub Release)
+- El aviso sale en Discord (`#descargas`)
+- El código del juego está en otro repositorio
 
-## How to download
-1. Open **Releases**
-2. Download the latest `.zip`
-3. Extract and run the game
+## Versiones
+
+| Versión | Archivo | Notas |
+|---------|---------|--------|
+| **0.2.0** (actual) | [NewGodswar-v0.2.0.zip](./NewGodswar-v0.2.0.zip) | Red/ping estable, Prod VPS, autoridad de combate/movimiento |
+| 0.1.0 | [NewGodswar-v0.1.0.zip](./NewGodswar-v0.1.0.zip) | Build inicial |
+
+## Cómo descargar
+
+1. Baja el `.zip` de la versión más reciente
+2. Extrae la carpeta
+3. Ejecuta `NewGodswar3D.exe`
+
+## Servidor (v0.2.0)
+
+- Game: `213.136.69.57:7777`
+- Admin: http://213.136.69.57:9080
+
+## Changelog v0.2.0
+
+- Ping local corregido (ya no sube a miles de ms al moverse)
+- Cola de red + prioridad ping
+- Validación de movimiento / cooldown de ataque / portales
+- Cliente embebido con `Environment=Prod`
+- Versión visible en Login y HUD
