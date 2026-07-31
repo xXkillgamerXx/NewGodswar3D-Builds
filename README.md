@@ -16,9 +16,17 @@ Repositorio de descargas del cliente Windows.
 | 0.2.0 | [NewGodswar-v0.2.0.zip](./NewGodswar-v0.2.0.zip) | Red/ping estable, Prod VPS, autoridad de combate/movimiento |
 | 0.1.0 | [NewGodswar-v0.1.0.zip](./NewGodswar-v0.1.0.zip) | Build inicial |
 
-## Cómo descargar
+## Launcher (recomendado)
 
-1. Baja el archivo de la versión más reciente (`.rar` o `.zip`)
+Descarga el launcher adaptado: [NewGodswarLauncher.zip](./NewGodswarLauncher.zip)
+
+1. Extrae `NewGodswarLauncher.exe`
+2. Ábrelo — lee `version.json`, descarga/actualiza el juego solo y pregunta si hay update
+3. **Launch game** abre `NewGodswar3D.exe` desde `%LocalAppData%\NewGodswar\Game\`
+
+## Cómo descargar (manual)
+
+1. Baja el archivo de la versión más reciente (`.zip`)
 2. Extrae la carpeta
 3. Ejecuta `NewGodswar3D.exe`
 
