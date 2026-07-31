@@ -3,6 +3,14 @@
   "downloadUrl": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswar-v0.2.1.zip",
   "releasedAt": "2026-07-30",
   "notes": "Sync nombres/HP/movimiento, floaters locales, click-to-attack.",
-  "newsTitle": "v0.2.1 — Multijugador más estable",
-  "newsBody": "• Nombres y vida sincronizados entre jugadores\n• Movimiento remoto sin flotar\n• Daño / FALLA / CRIT solo locales\n• Click enemigo → atacar | click derecho → quitar target\n\nServidor Prod: 213.136.69.57:7777"
+  "title": "NEW GODSWAR ONLINE",
+  "tagline": "MMORPG clasico point-and-click. Multijugador online en servidor de prueba.",
+  "newsTitle": "v0.2.1 â€” Multijugador mas estable",
+  "newsBody": "â€¢ Nombres y vida sincronizados entre jugadores\nâ€¢ Movimiento remoto sin flotar\nâ€¢ DaÃ±o / FALLA / CRIT solo locales\nâ€¢ Click enemigo â†’ atacar | click derecho â†’ quitar target\n\nServidor Prod: 213.136.69.57:7777",
+  "serverHost": "213.136.69.57:7777",
+  "links": {
+    "register": "http://213.136.69.57:9080/register",
+    "admin": "http://213.136.69.57:9080",
+    "downloads": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds"
+  }
 }
