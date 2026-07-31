@@ -1,16 +1,16 @@
 ﻿{
-  "version": "0.2.2",
-  "downloadUrl": "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.2.zip",
-  "releasedAt": "2026-07-31",
-  "notes": "Launcher rediseñado al estilo de la web. Juego sigue en v0.2.2.",
-  "title": "NEW GODSWAR ONLINE",
-  "tagline": "El destino de los dioses está en tus manos.",
-  "newsTitle": "Nuevo launcher — estilo web",
-  "newsBody": "• Launcher rediseñado (logo, hero, oro/navy)\n• Misma identidad que newgodswar.online\n• Botones JUGAR AHORA / DESCARGAR UPDATE\n• Enlaces a crear cuenta y web\n\nDescarga el launcher actualizado desde Discord o la web.\nJuego: v0.2.2",
-  "serverHost": "213.136.69.57:7777",
-  "links": {
-    "register": "https://newgodswar.online/register",
-    "admin": "https://newgodswar.online",
-    "downloads": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswarLauncher.zip"
-  }
+    "version":  "0.2.2",
+    "downloadUrl":  "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.2.zip",
+    "releasedAt":  "2026-07-31",
+    "notes":  "Launcher v0.1.6: incluye DLL nativas WPF (arregla exe que no abria).",
+    "title":  "NEW GODSWAR ONLINE",
+    "tagline":  "El destino de los dioses está en tus manos.",
+    "newsTitle":  "Launcher v0.1.6 — fix arranque",
+    "newsBody":  "• El zip ahora incluye las DLL necesarias (wpfgfx, vcruntime, etc.)\n• Extrae TODA la carpeta y abre NewGodswarLauncher.exe\n• Juego sigue en v0.2.2",
+    "serverHost":  "213.136.69.57:7777",
+    "links":  {
+                  "register":  "https://newgodswar.online/register",
+                  "admin":  "https://newgodswar.online",
+                  "downloads":  "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswarLauncher.zip"
+              }
 }
