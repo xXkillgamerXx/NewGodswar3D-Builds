@@ -11,7 +11,7 @@ Repositorio de descargas del cliente Windows.
 
 | Versión | Archivo | Notas |
 |---------|---------|--------|
-| **0.2.2** (actual) | [NewGodswar-v0.2.2.rar](./NewGodswar-v0.2.2.rar) | Hitstun real, sin warp al atacar, windup, rango más justo |
+| **0.2.2** (actual) | [NewGodswar-v0.2.2.zip](./NewGodswar-v0.2.2.zip) | Hitstun real, sin warp al atacar, windup, rango más justo |
 | 0.2.1 | [NewGodswar-v0.2.1.zip](./NewGodswar-v0.2.1.zip) | Sync nombres/HP/movimiento, floaters locales, click-to-attack |
 | 0.2.0 | [NewGodswar-v0.2.0.zip](./NewGodswar-v0.2.0.zip) | Red/ping estable, Prod VPS, autoridad de combate/movimiento |
 | 0.1.0 | [NewGodswar-v0.1.0.zip](./NewGodswar-v0.1.0.zip) | Build inicial |
@@ -63,3 +63,4 @@ En Login debe salir: `v0.2.2 | Env=Prod → 213.136.69.57:7777`
 - Validación de movimiento / cooldown de ataque / portales
 - Cliente embebido con `Environment=Prod`
 - Versión visible en Login y HUD
+
