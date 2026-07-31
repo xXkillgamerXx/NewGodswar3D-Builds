@@ -1,16 +1,16 @@
 ﻿{
-    "version":  "0.2.2",
-    "downloadUrl":  "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.2.zip",
-    "releasedAt":  "2026-07-31",
-    "notes":  "Launcher v0.1.6: incluye DLL nativas WPF (arregla exe que no abria).",
-    "title":  "NEW GODSWAR ONLINE",
-    "tagline":  "El destino de los dioses está en tus manos.",
-    "newsTitle":  "Launcher v0.1.6 — fix arranque",
-    "newsBody":  "• El zip ahora incluye las DLL necesarias (wpfgfx, vcruntime, etc.)\n• Extrae TODA la carpeta y abre NewGodswarLauncher.exe\n• Juego sigue en v0.2.2",
-    "serverHost":  "213.136.69.57:7777",
-    "links":  {
-                  "register":  "https://newgodswar.online/register",
-                  "admin":  "https://newgodswar.online",
-                  "downloads":  "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswarLauncher.zip"
-              }
+  "version": "0.2.2",
+  "downloadUrl": "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.2.zip",
+  "releasedAt": "2026-07-31",
+  "notes": "Launcher v0.1.7 carpeta completa (DLL). Extrae y usa ABRIR.bat.",
+  "title": "NEW GODSWAR ONLINE",
+  "tagline": "El destino de los dioses está en tus manos.",
+  "newsTitle": "Launcher v0.1.7",
+  "newsBody": "• Zip con carpeta completa (mismo formato que tools)\n• Usa ABRIR.bat dentro de la carpeta\n• No copies solo el .exe\n• Juego v0.2.2",
+  "serverHost": "213.136.69.57:7777",
+  "links": {
+    "register": "https://newgodswar.online/register",
+    "admin": "https://newgodswar.online",
+    "downloads": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswarLauncher.zip"
+  }
 }
