@@ -1,12 +1,12 @@
 {
-  "version": "0.2.1",
-  "downloadUrl": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswar-v0.2.1.zip",
+  "version": "0.2.2",
+  "downloadUrl": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswar-v0.2.2.rar",
   "releasedAt": "2026-07-30",
-  "notes": "Sync nombres/HP/movimiento, floaters locales, click-to-attack.",
+  "notes": "Hitstun real, sin warp al atacar, windup, rango mas justo, GetHit alineado.",
   "title": "NEW GODSWAR ONLINE",
   "tagline": "MMORPG clasico point-and-click. Multijugador online en servidor de prueba.",
-  "newsTitle": "v0.2.1 â€” Multijugador mas estable",
-  "newsBody": "â€¢ Nombres y vida sincronizados entre jugadores\nâ€¢ Movimiento remoto sin flotar\nâ€¢ DaÃ±o / FALLA / CRIT solo locales\nâ€¢ Click enemigo â†’ atacar | click derecho â†’ quitar target\n\nServidor Prod: 213.136.69.57:7777",
+  "newsTitle": "v0.2.2 — Combate mas limpio",
+  "newsBody": "• Hitstun real en server (~0.75s)\n• Sin teleporte/warp al atacar\n• Sin flinch falso en miss/muerte\n• Windup ~0.45s en primer golpe\n• Rango mas justo + camp assist 8u\n• GetHit visual 0.85s\n\nServidor Prod: 213.136.69.57:7777",
   "serverHost": "213.136.69.57:7777",
   "links": {
     "register": "http://213.136.69.57:9080/register",
