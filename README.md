@@ -10,7 +10,8 @@ Repositorio de descargas del cliente Windows.
 
 | Versión | Archivo | Notas |
 |---------|---------|--------|
-| **0.2.0** (actual) | [NewGodswar-v0.2.0.zip](./NewGodswar-v0.2.0.zip) | Red/ping estable, Prod VPS, autoridad de combate/movimiento |
+| **0.2.1** (actual) | [NewGodswar-v0.2.1.zip](./NewGodswar-v0.2.1.zip) | Sync nombres/HP/movimiento, floaters locales, click-to-attack |
+| 0.2.0 | [NewGodswar-v0.2.0.zip](./NewGodswar-v0.2.0.zip) | Red/ping estable, Prod VPS, autoridad de combate/movimiento |
 | 0.1.0 | [NewGodswar-v0.1.0.zip](./NewGodswar-v0.1.0.zip) | Build inicial |
 
 ## Cómo descargar
@@ -19,10 +20,29 @@ Repositorio de descargas del cliente Windows.
 2. Extrae la carpeta
 3. Ejecuta `NewGodswar3D.exe`
 
-## Servidor (v0.2.0)
+En Login debe salir: `v0.2.1 | Env=Prod → 213.136.69.57:7777`
+
+## Servidor (v0.2.1)
 
 - Game: `213.136.69.57:7777`
 - Admin: http://213.136.69.57:9080
+
+## Changelog v0.2.1
+
+### Multijugador
+- Nombres de personaje correctos (ya no “Guerrero” en ambos)
+- Vida sincronizada al entrar (el otro jugador ve HP real)
+- Movimiento remoto más estable (sin flotar)
+- Textos de daño / FALLA / CRIT solo locales
+- Barra táctica del enemigo solo si lo tienes en target
+
+### Combate / UX
+- Click izquierdo en enemigo → ir y atacar
+- Click derecho corto → quitar target
+- Mejoras de IA / camps en servidor
+
+### UI
+- Tamaño de daño/crit configurable en `config.ini` sección `[UI]`
 
 ## Changelog v0.2.0
 
