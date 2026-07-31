@@ -1,16 +1,16 @@
 ﻿{
   "version": "0.2.2",
   "downloadUrl": "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.2.zip",
-  "releasedAt": "2026-07-30",
-  "notes": "Hitstun real, sin warp al atacar, windup, rango mas justo, GetHit alineado.",
+  "releasedAt": "2026-07-31",
+  "notes": "Launcher rediseñado al estilo de la web. Juego sigue en v0.2.2.",
   "title": "NEW GODSWAR ONLINE",
-  "tagline": "MMORPG clasico point-and-click. Multijugador online en servidor de prueba.",
-  "newsTitle": "v0.2.2 — Combate mas limpio",
-  "newsBody": "• Hitstun real en server (~0.75s)\n• Sin teleporte/warp al atacar\n• Sin flinch falso en miss/muerte\n• Windup ~0.45s en primer golpe\n• Rango mas justo + camp assist 8u\n• GetHit visual 0.85s\n\nServidor Prod: 213.136.69.57:7777",
+  "tagline": "El destino de los dioses está en tus manos.",
+  "newsTitle": "Nuevo launcher — estilo web",
+  "newsBody": "• Launcher rediseñado (logo, hero, oro/navy)\n• Misma identidad que newgodswar.online\n• Botones JUGAR AHORA / DESCARGAR UPDATE\n• Enlaces a crear cuenta y web\n\nDescarga el launcher actualizado desde Discord o la web.\nJuego: v0.2.2",
   "serverHost": "213.136.69.57:7777",
   "links": {
     "register": "https://newgodswar.online/register",
     "admin": "https://newgodswar.online",
-    "downloads": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds"
+    "downloads": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswarLauncher.zip"
   }
 }
