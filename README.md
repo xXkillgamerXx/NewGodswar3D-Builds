@@ -5,6 +5,7 @@ Repositorio de descargas del cliente Windows.
 - Cada versión se publica aquí (y preferiblemente como GitHub Release)
 - El aviso sale en Discord (`#descargas`)
 - El código del juego está en otro repositorio
+- El **launcher** lee [`version.json`](./version.json) y **pregunta** si hay update
 
 ## Versiones
 
