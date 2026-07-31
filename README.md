@@ -34,8 +34,9 @@ En Login debe salir: `v0.2.2 | Env=Prod → 213.136.69.57:7777`
 
 ## Servidor (v0.2.2)
 
-- Game: `213.136.69.57:7777`
-- Admin: http://213.136.69.57:9080
+- Game (TCP): `213.136.69.57:7777` (el cliente sigue por IP)
+- Admin / registro: http://newgodswar.online  (sin puerto)
+- Admin directo (fallback): http://213.136.69.57:9080
 
 ## Changelog v0.2.2
 
