@@ -1,0 +1,8 @@
+{
+  "version": "0.2.1",
+  "downloadUrl": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds/raw/main/NewGodswar-v0.2.1.zip",
+  "releasedAt": "2026-07-30",
+  "notes": "Sync nombres/HP/movimiento, floaters locales, click-to-attack.",
+  "newsTitle": "v0.2.1 — Multijugador más estable",
+  "newsBody": "• Nombres y vida sincronizados entre jugadores\n• Movimiento remoto sin flotar\n• Daño / FALLA / CRIT solo locales\n• Click enemigo → atacar | click derecho → quitar target\n\nServidor Prod: 213.136.69.57:7777"
+}
