@@ -9,8 +9,8 @@
   "newsBody": "• Hitstun real en server (~0.75s)\n• Sin teleporte/warp al atacar\n• Sin flinch falso en miss/muerte\n• Windup ~0.45s en primer golpe\n• Rango mas justo + camp assist 8u\n• GetHit visual 0.85s\n\nServidor Prod: 213.136.69.57:7777",
   "serverHost": "213.136.69.57:7777",
   "links": {
-    "register": "http://newgodswar.online/register",
-    "admin": "http://newgodswar.online",
+    "register": "https://newgodswar.online/register",
+    "admin": "https://newgodswar.online",
     "downloads": "https://github.com/xXkillgamerXx/NewGodswar3D-Builds"
   }
 }
