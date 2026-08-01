@@ -1,12 +1,12 @@
 ﻿{
-  "version": "0.2.2",
-  "downloadUrl": "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.2.zip",
+  "version": "0.2.3",
+  "downloadUrl": "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.3.zip",
   "releasedAt": "2026-07-31",
-  "notes": "Launcher compacto: exe + DLL nativas (publish zip).",
+  "notes": "Loot de cadáver (reserva + libre), inventario con iconos y drag & drop.",
   "title": "NEW GODSWAR ONLINE",
   "tagline": "El destino de los dioses está en tus manos.",
-  "newsTitle": "Launcher actualizado",
-  "newsBody": "• Zip desde publish (exe + DLL)\n• Extrae todos los archivos juntos\n• Juego v0.2.2",
+  "newsTitle": "Update v0.2.3 — Loot e inventario",
+  "newsBody": "• Cadáver con botín: el cuerpo se queda en el mapa\n• Reserva del asesino, luego loot libre para todos\n• Inventario: iconos, cantidad, arrastrar slots\n• Botón Bolsa [I] abajo a la derecha",
   "serverHost": "213.136.69.57:7777",
   "links": {
     "register": "https://newgodswar.online/register",
