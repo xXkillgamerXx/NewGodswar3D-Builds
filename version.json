@@ -1,12 +1,12 @@
 ﻿{
-  "version": "0.2.3",
-  "downloadUrl": "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.3.zip",
+  "version": "0.2.4",
+  "downloadUrl": "https://raw.githubusercontent.com/xXkillgamerXx/NewGodswar3D-Builds/main/NewGodswar-v0.2.4.zip",
   "releasedAt": "2026-07-31",
-  "notes": "Loot de cadáver (reserva + libre), inventario con iconos y drag & drop.",
+  "notes": "Chat en juego, sync de nivel entre jugadores, sin LEVEL UP falso al cambiar de mapa.",
   "title": "NEW GODSWAR ONLINE",
   "tagline": "El destino de los dioses está en tus manos.",
-  "newsTitle": "Update v0.2.3 — Loot e inventario",
-  "newsBody": "• Cadáver con botín: el cuerpo se queda en el mapa\n• Reserva del asesino, luego loot libre para todos\n• Inventario: iconos, cantidad, arrastrar slots\n• Botón Bolsa [I] abajo a la derecha",
+  "newsTitle": "Update v0.2.4 — Chat y niveles",
+  "newsBody": "• Chat abajo a la izquierda (Enter / Esc)\n• Otros jugadores ven tu nivel real\n• Ya no aparece LEVEL UP al cambiar de mapa\n• Prefabs de lista/creación de personaje editables",
   "serverHost": "213.136.69.57:7777",
   "links": {
     "register": "https://newgodswar.online/register",

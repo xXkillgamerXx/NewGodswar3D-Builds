@@ -11,7 +11,8 @@ Repositorio de descargas del cliente Windows.
 
 | Versión | Archivo | Notas |
 |---------|---------|--------|
-| **0.2.3** (actual) | [NewGodswar-v0.2.3.zip](./NewGodswar-v0.2.3.zip) | Loot de cadáver (reserva/FFA), inventario con iconos y drag & drop |
+| **0.2.4** (actual) | [NewGodswar-v0.2.4.zip](./NewGodswar-v0.2.4.zip) | Chat en juego, sync de nivel, sin LEVEL UP falso al cambiar mapa |
+| 0.2.3 | [NewGodswar-v0.2.3.zip](./NewGodswar-v0.2.3.zip) | Loot de cadáver (reserva/FFA), inventario con iconos y drag & drop |
 | 0.2.2 | [NewGodswar-v0.2.2.zip](./NewGodswar-v0.2.2.zip) | Hitstun real, sin warp al atacar, windup, rango más justo |
 | 0.2.1 | [NewGodswar-v0.2.1.zip](./NewGodswar-v0.2.1.zip) | Sync nombres/HP/movimiento, floaters locales, click-to-attack |
 | 0.2.0 | [NewGodswar-v0.2.0.zip](./NewGodswar-v0.2.0.zip) | Red/ping estable, Prod VPS, autoridad de combate/movimiento |
@@ -31,13 +32,28 @@ Descarga el launcher adaptado: [NewGodswarLauncher.zip](./NewGodswarLauncher.zip
 2. Extrae la carpeta
 3. Ejecuta `NewGodswar3D.exe`
 
-En Login debe salir: `v0.2.3 | Env=Prod → 213.136.69.57:7777`
+En Login debe salir: `v0.2.4 | Env=Prod → 213.136.69.57:7777`
 
-## Servidor (v0.2.3)
+## Servidor (v0.2.4)
 
 - Game (TCP): `213.136.69.57:7777` (el cliente sigue por IP)
 - Admin / registro: https://newgodswar.online  (SSL, sin puerto)
 - Admin directo (fallback): http://213.136.69.57:9080
+
+## Changelog v0.2.4
+
+### Chat
+- Panel de chat **abajo a la izquierda** en el mundo
+- **Enter** para escribir / enviar · **Esc** para salir
+- Chat de mapa + comandos (`/help`, `/who`, …)
+
+### Niveles / multijugador
+- Los demás jugadores ven tu **nivel real** (nameplate `Nombre Lv.X`)
+- Al subir de nivel, se **actualiza** para quienes están en el mapa
+- Ya **no** aparece el texto LEVEL UP al entrar o cambiar de mapa (solo cuando subes de verdad)
+
+### UI personaje
+- Prefabs editables para lista/creación: `CharacterListItem`, `CharacterList`, `CharacterCreatePanel`
 
 ## Changelog v0.2.3
 
